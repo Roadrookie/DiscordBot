@@ -1,0 +1,8 @@
+#DB files
+*.db
+
+#environment files
+.env
+
+#.old files
+*.old
